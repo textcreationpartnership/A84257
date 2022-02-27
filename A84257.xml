@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull nevves from the Earle of VVarvvick. Wherein is declared the wonderfull workes of God, by preventing a damnable and hel-bred conspiracy plotted against him: Sir Iohn Pennington being neare unto him with a great number of caveliers. Read in both Houses of Parliament, and by them ordered to be printed. Also a declaration of the House of Peers sent down to the House of Commons, with Mr. Pyms answer thereunto. With the Kings resolution concerning the Earle of Northumberland, Pembroke, Essex, Holland, and the Lord Fielding. Likewise the humble petition of the Lords and Commons in Parliament assembled, to the Kings most Excellent Majesty. For a pacification between His Majesty and both Houses. Ordered that this be printed. Joh. Brown. Cler: Par.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84257</idno>
+            <idno type="STC">Wing E3762</idno>
+            <idno type="STC">Thomason E155_20</idno>
+            <idno type="STC">ESTC R266</idno>
+            <idno type="EEBO-CITATION">99872132</idno>
+            <idno type="PROQUEST">99872132</idno>
+            <idno type="VID">156861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E155[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull nevves from the Earle of VVarvvick. Wherein is declared the wonderfull workes of God, by preventing a damnable and hel-bred conspiracy plotted against him: Sir Iohn Pennington being neare unto him with a great number of caveliers. Read in both Houses of Parliament, and by them ordered to be printed. Also a declaration of the House of Peers sent down to the House of Commons, with Mr. Pyms answer thereunto. With the Kings resolution concerning the Earle of Northumberland, Pembroke, Essex, Holland, and the Lord Fielding. Likewise the humble petition of the Lords and Commons in Parliament assembled, to the Kings most Excellent Majesty. For a pacification between His Majesty and both Houses. Ordered that this be printed. Joh. Brown. Cler: Par.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 16. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denbigh, Basil Feilding, --  Earl of, ca. 1608-1675.</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Holland, Henry Rich, --  Earl of, 1590-1649.</term>
+               <term>Northumberland, Algernon Percy, --  Earl of, 1602-1668.</term>
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650.</term>
+               <term>Penington, John, --  Sir, 1568?-1646.</term>
+               <term>Pym, John, 1584-1643.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156861:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>Exceeding joyfull NEVVES From the EARLE OF VVARVVICK.</p>
+            <p>Wherein is declared the wonderfull workes Of God, by preventing a damnable and hel-bred conſpiracy plotted againſt him: Sir <hi>Iohn Pennington</hi> being neare unto him with a great number of Caveliers.</p>
+            <p>
+               <hi>Read in both Houſes of Parliament, and by them ordered to be Printed.</hi>
+            </p>
+            <p>Alſo a Declaration of the Houſe of Peers ſent down to the Houſe of Commons, with Mr. <hi>Pyms</hi> anſwer thereunto.</p>
+            <p>
+               <hi>With the Kings Reſolution concerning the Earle of</hi> Northumberland, Pembroke, Eſſex, Hol<g ref="char:EOLhyphen"/>land, <hi>and the Lord</hi> Fielding.</p>
+            <p>Likewiſe the humble Petition of the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled, To the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty. For a Pacification between His Ma<g ref="char:EOLhyphen"/>jeſty and both Houſes.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be Printed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler: Par.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>A. Coe, Iuly</hi> 16, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156861:2"/>
+            <!-- PDF PAGE 62 -->
+            <pb facs="tcp:156861:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <head>Exceeding joyfull Newes from the Earle of WARVVICKE.</head>
+            <p>IT is not unknowne to the ſubjects of England, the great Plots and wicked Deſignes which the Papiſts, or rather the party which we now call Malignants, have often and ſun<g ref="char:EOLhyphen"/>dry times endeavoured to bring this Land to perpetuall ruine and deſtruction, neither can it bee unknowne to the whole world, how powerfull and active the wicked Counſellers about his Royall Majeſty have been both before and ſince the Parlia<g ref="char:EOLhyphen"/>ment now aſſembled, in ſeeking to deſtroy and extinguiſh the true Proteſtant Profeſſion, the lawes of the Land, and the Li<g ref="char:EOLhyphen"/>berty of the Subject: and have alſo wrought many traiterous and damnable deſignes againſt the Parliament: But by the great care of the omnipotent God of heaven, they have been diſcovered, taking no effect, praiſed bee his name for it. And ſeeing they could not prevaile in theſe their damnable and Hell-bred attempts, they prevailed ſo farre with his Royall Ma<g ref="char:EOLhyphen"/>jeſty, that they drew his Highneſſe from his Parliament to di<g ref="char:EOLhyphen"/>vers adjacent places thereabouts, and after to the Northerne parts, where (in his name) they publiſh divers ſcandalous and ignominious ſpeeches againſt the Parliament, to the great dan<g ref="char:EOLhyphen"/>ger, not onely of the diſturbance, but even of the ſubverſion of the originall Conſtitution and Fra<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of this Kingdome.</p>
+            <p>
+               <pb facs="tcp:156861:3"/>
+               <!-- PDF PAGE 63 -->
+But they not prevailing in all theſe attempts, which they have plotted againſt the Parliament; they thought it a buſineſſe very convenient for them to bring their projects more to per<g ref="char:EOLhyphen"/>fection, to deſire his Majeſty to ſend command to the Earle of Warwicke for to reſigne his place to Sir <hi>Iohn Pennington:</hi> At which time there was a diſrovery of a great miſchiefe that had like to have happened upon the diſcharging him of his place, Sir <hi>Iohn Pennington</hi> being then in the Downes with a great company, expecting to have the ſhips delivered up unto him, but twas prevented.</p>
+            <p>His Majeſty through the inſtigation of wicked Counſell, hath put the Earle of Pembroke, Earle of Eſſex, Earle of Hol<g ref="char:EOLhyphen"/>land, and the Lord <hi>Fielding</hi> out of their places of Honour, for no other cauſe but diſcharging their conſciences in Parliament, being Members of the ſaid Houſe; and likewiſe the Earle of Northumberland, and his Majeſty hath diſplaced of high Ad<g ref="char:EOLhyphen"/>mirall a man ſo eminent in all qualifications of honour and ſafe<g ref="char:EOLhyphen"/>tie, ſo neceſſary for theſe times: All which were done by the meanes of evill Counſell, being a dangerous preparative to fu<g ref="char:EOLhyphen"/>ture Confuſions.</p>
+            <p>Both Houſes having taken into conſideration the diſplacing of theſe perſons, eſpecially the Earle of Northumberland, can<g ref="char:EOLhyphen"/>not thinke the Kingdome to bee in ſafety, till they have done their utmoſt in all fit waies, till that office be reſtored, whereby the Commanders of the ſhips, which are the walls of the King<g ref="char:EOLhyphen"/>dome, may againe be ſetled in charge of that noble Lord.</p>
+            <p>The Honourable Houſe of Peeres taking into ſerious conſi<g ref="char:EOLhyphen"/>deration the great diſtempers of this Kingdome, and the great diſtreſſe and danger the Kingdome of Ireland was in, unleſſe timely remedy be forthwith prepared and made ready: But for the prevention whereof they ordered and reſolved at a Confe<g ref="char:EOLhyphen"/>rence to make this inſuing Declaration.</p>
+            <p>
+               <pb facs="tcp:156861:3"/>
+               <!-- PDF PAGE 63 -->
+That they having taken into conſideration the weighty af<g ref="char:EOLhyphen"/>faires of both Kingdomes; thought it very requiſite and neceſ<g ref="char:EOLhyphen"/>ſary, that the Earle of Leiceſter ſhould be forthwith diſpatched for Ireland; declaring and laying open the great neceſſity and want of him in that diſtreſſed Kingdome.</p>
+            <p>To which Mr. <hi>Pym</hi> anſwered, that he was very willing to goe, but that many we<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghty occaſions hindered him, and at the ſame time the Earle of Leiceſter ſeconded him.</p>
+            <p>Mr. <hi>Pym</hi> preſented to the Houſe of Peeres divers Propoſiti<g ref="char:EOLhyphen"/>ons concerning that motion, which was to this effect.</p>
+            <p>That whereas their Lordſhips were deſirous that he ſhould forthwith goe for Ireland; he was very willing, if ſo be provi<g ref="char:EOLhyphen"/>ſion were in readineſſe, he demanding a great ſum of money at his firſt ſetting forth.</p>
+            <p>But it was referred to a Committee for the conſideration <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereof.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:156861:4"/>
+            <!-- PDF PAGE 64 -->
+            <head>To the Kings moſt excellent Majeſty.</head>
+            <head type="sub">The humble Petition of the Lords and Commons in Parliament aſſembled.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>ALthough wee, your Majeſties moſt humble and faithfull Subjects, the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament aſſembled, have been very unhappy in ma<g ref="char:EOLhyphen"/>ny former Petitions and Supplications to your Ma<g ref="char:EOLhyphen"/>jeſty, wherein we have repreſented our moſt duti<g ref="char:EOLhyphen"/>full affections in adviſing and deſiring thoſe things which wee held moſt neceſſary for the preſervation of Gods true Religion, your Majeſties ſafety and honour, and the peace of the King<g ref="char:EOLhyphen"/>dome; And with much ſorrow doe perceive, that your Maje<g ref="char:EOLhyphen"/>ſty incenc'd by many falſe calumnies and ſlanders, doth conti<g ref="char:EOLhyphen"/>nue to raiſe forces againſt us, and your other peaceable and loy<g ref="char:EOLhyphen"/>all Subjects, and to make great preparations for warre, both in the Kingdome, and from beyond the Seas; And by armes and violence to over-rule the judgement and advice of your great Councell, and by force to determine queſtions there depending concerning the government and liberty of the Kingdome: yet ſuch is our earneſt deſire of diſcharging our duty to your Maje<g ref="char:EOLhyphen"/>ſty and the Kingdome, to preſerve the peace thereof, and to pre<g ref="char:EOLhyphen"/>vent the miſeries of civill warre amongſt your ſubjects; That
+<pb facs="tcp:156861:4"/>
+               <!-- PDF PAGE 64 -->no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>withſtanding we hold our ſelves bound to uſe all the means and power, which by the Lawes and Conſtitutions of this Kingdome wee are truſted with for defence and protection thereof, and of the Subjects from force and violence. We doe in this our humble and loyall Petition, proſtrate our ſelves at your Majeſties feet, beſeeching your Majeſty that you will be pleaſed to forbeare and remove all preparations and actions of warre, particularly the Forces from about Hull, from New<g ref="char:EOLhyphen"/>caſtle, Tynmouth, Lincoln, and Lincolnſhire, and all other places. And that your Majeſty will recall the Commiſſions of Array, which are illegall; diſmiſſe Troops, and extraordinary Guards by you raiſed. That your Majeſty will come n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erer to your Parliament, and hearken to their faithfull advice, and humble Petitions, which ſhall onely tend to the defence and advancement of Religion, Your owne Royall honour and ſafe<g ref="char:EOLhyphen"/>ty, the preſervation of our Lawes and Liberties: And we have been, and ſhall ever be carefull to prevent and puniſh all tu<g ref="char:EOLhyphen"/>mults and ſeditious actions, ſpeeches and writings, which may give your Majeſty juſt cauſe of diſtaſte or apprehenſion of dan<g ref="char:EOLhyphen"/>ger. That your Majeſty will leave Delinquents to the due courſe of Juſtice; And that nothing done or ſpoken in Parlia<g ref="char:EOLhyphen"/>ment, or by any perſon in purſuance of the commands and di<g ref="char:EOLhyphen"/>rections of both Houſes of Parliament, be queſtioned any where but in Parliament.</p>
+            <p>And we, for our parts, ſhall bee ready to lay downe all thoſe preparations which we have bin forced to make for our defence. And for the Towne of Hull, and the Ordinance concerning the Militia, as wee have in both theſe particulars onely ſought the preſervation of the peace of the Kingdome, and the defence of the Parliament from force and violence: So wee ſhall wil<g ref="char:EOLhyphen"/>lingly leave the Towne of Hull in the ſtate it was before Sir <hi>Iohn Hotham</hi> drew any Forces into it, delivering your Ma<g ref="char:EOLhyphen"/>jeſties Magazine into your Tower of London: And ſup<g ref="char:EOLhyphen"/>preſſing whatſoever hath been; diſpoſed by us for the ſervice of
+<pb facs="tcp:156861:5"/>
+               <!-- PDF PAGE 65 -->the Kingdome. Wee ſhall bee ready to ſettle the Militia by a Bill, in ſuch a way, as ſhall bee honourable and ſafe for your Majeſty, moſt agreeable to the duty of Parliament, and effectu<g ref="char:EOLhyphen"/>all for the good of the Kingdome: That the ſtrength thereof be not imployed againſt it ſelfe; and that which ought to be for our ſecurity, applied to our deſtruction: And that the Parlia<g ref="char:EOLhyphen"/>ment, and thoſe who profeſſe and deſire ſtill to preſerve the Proteſtant Religion, both in this Realme and in Iceland, may not bee left naked and indefenſible, to the miſcheivous deſignes, and cruell attempts of thoſe, who are the profeſt and confederated enemies thereof, in your Majeſties Dominions, and other Neighbour-Nations. To which if your Majeſties courſes and counſels ſhall from hence-forth concure. Wee doubt not but we ſhall quickly make it appeare to the <gap reason="illegible: under-inked" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, by the moſt e<g ref="char:EOLhyphen"/>eminent effects of love and duty <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Majeſties per<g ref="char:EOLhyphen"/>ſonall ſafety, your Royall Honour and Greatneſſe, are much dearer to us then our Lives and Fortunes, which wee doe moſt heartily dedicate, and ſhall moſt willingly imploy for the ſup<g ref="char:EOLhyphen"/>port and maintenance thereof.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156861:6"/>
+            <!-- PDF PAGE 66 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
